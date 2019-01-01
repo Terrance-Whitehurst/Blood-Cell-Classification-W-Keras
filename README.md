@@ -1,3 +1,5 @@
+![blood_gif](https://user-images.githubusercontent.com/25434579/50574043-f1dff380-0dad-11e9-9aae-25ec9d7e2cf6.gif)
+
 # Project Details
 In this deep learning project I use keras to classify different images of blood cells. This vision model was trained using Kaggle kernels GPUs. I use the functional keras model along with a custom built cnn and data augmentation so the model doesncan not see the same image during training. 
 
