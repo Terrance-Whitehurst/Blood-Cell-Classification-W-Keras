@@ -9,12 +9,18 @@ Paul Mooney: https://www.kaggle.com/paultimothymooney/blood-cells
 # Classes
 
 # 1) Eosinophil
+![](images/eosinophil.JPG)
 
 # 2) Lymphocyte
+![](images/lymphocyte.jpg)
 
 # 3) Monocyte
+![](images/monocyte.jpg)
 
 # 4) Neutrophil
-
+![](images/neutrophil.png)
 # Checkout My Deep Learning Blog!
 https://medium.com/@TerranceWhitehurst
+![](images/headshot.jpg)
+
+# Happy Learning!
